@@ -1,0 +1,78 @@
+week-01:
+  title: 'Week 1'
+  segment: ['week', 1]
+  begin: 2023-08-28
+  end: 2023-09-02
+  theme: c1
+  items:
+    - syllabus
+    - lecture-01
+    - lecture-02
+    - lecture-03
+    - lecture-04
+    - lecture-05
+    - assignment-01
+    - zoom-01
+
+week-02:
+  title: 'Week 2'
+  segment: ['week', 2]
+  begin: 2023-09-04
+  end: 2023-09-09
+  theme: c3
+  items:
+    - lecture-06
+    - lecture-07
+    - lecture-08
+    - lecture-09
+    - lecture-10
+    - assignment-02
+    - zoom-02
+
+week-03:
+  title: 'Week 3'
+  segment: ['week', 3]
+  begin: 2023-09-11
+  end: 2023-09-16
+  theme: c5
+  items:
+    - lecture-11
+    - lecture-12
+    - lecture-13
+    - lecture-14
+    - lecture-15
+    - lecture-16
+    - lecture-17
+    - lecture-18
+    - assignment-03
+
+week-04:
+  title: 'Week 4'
+  segment: ['week', 4]
+  begin: 2023-09-18
+  end: 2023-09-23
+  theme: c7
+  items:
+    - lecture-19
+    - lecture-20
+    - lecture-21
+    - lecture-22
+    - lecture-23
+    - lecture-24
+    - assignment-04
+
+week-05:
+  title: 'Week 5'
+  segment: ['week', 5]
+  begin: 2023-09-25
+  end: 2023-09-30
+  theme: c9
+  items:
+    - lecture-25
+    - lecture-26
+    - lecture-27
+    - lecture-28
+    - lecture-29
+    - lecture-30
+    - lecture-31
+    - assignment-05

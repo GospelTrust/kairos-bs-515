@@ -1,0 +1,399 @@
+syllabus:
+  segment: 'week-01'
+  title: 'BS-515 Pentateuch'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+lecture-01:
+  segment: 'week-01'
+  title: 'Observing & Interpreting OT Narrative'
+  icon: web_stories
+  header: 'Lecture 1'
+  sequence: 1
+  url: 'lecture-01'
+  videos:
+    - https://drive.google.com/file/d/1oCfTFFc4m_XTvG5u6lGXGFlxmAsqKMoA/preview
+
+lecture-02:
+  segment: 'week-01'
+  title: 'Overview Timeline of the OT'
+  icon: web_stories
+  header: 'Lecture 2'
+  sequence: 2
+  url: 'lecture-02'
+  videos:
+    - https://drive.google.com/file/d/1Zv0h0dvNwRTrFGmDcB2ZR_KfSDr751I1/preview
+
+lecture-03:
+  segment: 'week-01'
+  title: 'A Biblical versus a Pagan Understanding of God / the gods, and the Cosmos'
+  icon: web_stories
+  header: 'Lecture 3'
+  sequence: 3
+  url: 'lecture-03'
+  videos:
+    - https://drive.google.com/file/d/1BnSHP9hQY0f-6EaMGIF--6Eqw2JMp0u9/preview
+
+lecture-04:
+  segment: 'week-01'
+  title: 'An Initial Overview of the Pentateuch / Preliminary Observations Re: Genesis 1 & 2'
+  icon: web_stories
+  header: 'Lecture 4'
+  sequence: 4
+  url: 'lecture-04'
+  videos:
+    - udqV56mxHFk
+
+lecture-05:
+  segment: 'week-01'
+  title: 'OT vs. ANE View of Creation and the Cosmos'
+  icon: web_stories
+  header: 'Lecture 5'
+  sequence: 5
+  url: 'lecture-05'
+  videos:
+    - https://drive.google.com/file/d/1zVv5_Eb1ACtjK_BOuNsQtB0v4KPELE81/preview
+
+lecture-06:
+  segment: 'week-02'
+  title: 'Observations from the 2nd Account of Creation in Genesis / Where Does the 2nd Account of Creation Begin?'
+  icon: web_stories
+  header: 'Lecture 6'
+  sequence: 6
+  url: 'lecture-06'
+  videos:
+    - https://drive.google.com/file/d/1F-s5j7mDrRSOegzdl8-DGHFwHSsiFjnh/preview
+
+lecture-07:
+  segment: 'week-02'
+  title: 'How the Rest of the Bible Views the 2nd Account of Creation'
+  icon: web_stories
+  header: 'Lecture 7a'
+  sequence: 7a
+  url: 'lecture-07'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/194C4EFR_c_a9N7X5vIlUIiOD4ZzxqS0V/preview
+
+lecture-08:
+  segment: 'week-02'
+  title: "The Bible's View of Creation & the Cosmos...Non-negotiable"
+  icon: web_stories
+  header: 'Lecture 7b'
+  sequence: 7b
+  url: 'lecture-08'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1eZQSTik1JeeAI8vuMijdgpjGo95QzupG/preview
+
+lecture-09:
+  segment: 'week-02'
+  title: "Genesis Chs. 5–50; The Patriarchs & God's Promises; the Abrahamic Covenant"
+  icon: web_stories
+  header: 'Lectures 8 & 9'
+  sequence: '8+'
+  url: 'lecture-09'
+  videos:
+    - https://drive.google.com/file/d/1eZQSTik1JeeAI8vuMijdgpjGo95QzupG/preview
+
+lecture-10:
+  segment: 'week-03'
+  title: 'Basic Nature of OT Covenants & ANE Treaties'
+  icon: web_stories
+  header: 'Lectures 10 & 11'
+  sequence: '10+'
+  url: 'lecture-10'
+  videos:
+    - https://drive.google.com/file/d/1u8p5b2PCdETpGtO0P4PcFGunuB0vRqsG/preview
+
+lecture-11:
+  segment: 'week-03'
+  title: 'Exodus Overview #1, Chs 1–24; esp., Mt Sinai, the Sinai Covenant, & the Law'
+  icon: web_stories
+  header: 'Lecture 12'
+  sequence: 12
+  url: 'lecture-11'
+  videos:
+    - https://drive.google.com/file/d/1u8p5b2PCdETpGtO0P4PcFGunuB0vRqsG/preview
+
+lecture-12:
+  segment: 'week-03'
+  title: 'The Abrahamic Covenant and the Sinai Covenant; How they differ, and which one applies to Christians'
+  icon: web_stories
+  header: 'Lecture 13a'
+  sequence: 13a
+  url: 'lecture-12'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1VhHd06i0iQ0AR2bTYCLnjzdkrdt5rSnt/preview
+
+lecture-13:
+  segment: 'week-03'
+  title: 'The Abrahamic Covenant and the Sinai Covenant; How they differ, and which one applies to Christians'
+  icon: web_stories
+  header: 'Lecture 13b'
+  sequence: 13b
+  url: 'lecture-13'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/17FxgCUNEdO_3JZ08zqz8fbT13vJCVN1O/preview
+
+lecture-14:
+  segment: 'week-03'
+  title: 'Exodus 21:22, & the Biblical View of the Sanctity of Life, and the Protection of the Unborn'
+  icon: web_stories
+  header: 'Lecture 14a'
+  sequence: 14a
+  url: 'lecture-14'
+  part: 3
+  videos:
+    - https://drive.google.com/file/d/15dCi8cqG2KwrDCjbQ33HhG5Z30rbJByr/preview
+
+lecture-15:
+  segment: 'week-03'
+  title: '"An eye for an eye" in the Old Testament'
+  icon: web_stories
+  header: 'Lecture 14b'
+  sequence: 14b
+  url: 'lecture-15'
+  videos:
+    - https://drive.google.com/file/d/1dkvOlvZzqgqzp2fJhTg4pwLKvPwUYLAo/preview
+
+lecture-16:
+  segment: 'week-03'
+  title: 'How the OT Law Handles Theft vs. Accidental Damage/Injury'
+  icon: web_stories
+  header: 'Lecture 14c'
+  sequence: 14c
+  url: 'lecture-16'
+  videos:
+    - https://drive.google.com/file/d/1NK87deGVecQkvSlLaoZFY3znD6kFIorE/preview
+
+lecture-17:
+  segment: 'week-03'
+  title: 'Exodus Overview #2, Chs. 25–40'
+  icon: web_stories
+  header: 'Lecture 15'
+  sequence: 15
+  url: 'lecture-17'
+  videos:
+    - https://drive.google.com/file/d/18bjBXvIxM1wDYR2f5jGT_qnQNY59XNj_/preview
+
+lecture-18:
+  segment: 'week-03'
+  title: 'Exodus 34:7 – Does God Punish Children for the Sins of their Fathers?'
+  icon: web_stories
+  header: 'Lecture 16'
+  sequence: 16
+  url: 'lecture-18'
+  videos:
+    - https://drive.google.com/file/d/1Xa75uSjMHpGKReFWFtnEKkYNipINH6v3/preview
+
+lecture-19:
+  segment: 'week-04'
+  title: 'Leviticus'
+  icon: web_stories
+  header: 'Lecture 17a'
+  sequence: 17a
+  url: 'lecture-19'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1kPxWUuoC6u7Ap9utneALtXfidRW0Ll4M/preview
+
+lecture-20:
+  segment: 'week-04'
+  title: 'Leviticus'
+  icon: web_stories
+  header: 'Lecture 17b'
+  sequence: 17b
+  url: 'lecture-20'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1Q6Vw3QdlcThUgU4v19HFTwpVwQ6tKcrf/preview
+
+lecture-21:
+  segment: 'week-04'
+  title: 'Leviticus 18–20, and the Question of Homosexual Conduct'
+  icon: web_stories
+  header: 'Lecture 18'
+  sequence: 18
+  url: 'lecture-21'
+  videos:
+    - https://drive.google.com/file/d/1-pw-ew0IgwzjtO50A7SNuEqPxqhe6lgh/preview
+
+lecture-22:
+  segment: 'week-04'
+  title: 'Numbers'
+  icon: web_stories
+  header: 'Lecture 19'
+  sequence: 19
+  url: 'lecture-22'
+  videos:
+    - https://drive.google.com/file/d/1bEVyQj4qdpYQ0lqV4-FHZGNmvu303NQD/preview
+
+lecture-23:
+  segment: 'week-04'
+  title: 'Deuteronomy'
+  icon: web_stories
+  header: 'Lecture 20'
+  sequence: 20
+  url: 'lecture-23'
+  videos:
+    - https://drive.google.com/file/d/1s9yjIBjc1UtVdA5L9evd4OU_FnF-nLRH/preview
+
+lecture-24:
+  segment: 'week-04'
+  title: 'Major Conclusions from the Pentateuch'
+  icon: web_stories
+  header: 'Lecture 21'
+  sequence: 21
+  url: 'lecture-24'
+  videos:
+    - https://drive.google.com/file/d/11hgEZ7NvPC4PlJbhEDKsgRoNprveIm7M/preview
+
+lecture-25:
+  segment: 'week-05'
+  title: 'The "Scientific Interpretation" of Critical Scholars'
+  icon: web_stories
+  header: 'Lecture 22'
+  sequence: 22
+  url: 'lecture-25'
+  videos:
+    - https://drive.google.com/file/d/1IhsBVvcTZzKPDYiEXXTkJ_t0MPZKvLPv/preview
+
+lecture-26:
+  segment: 'week-05'
+  title: 'The General Effect of the Critical Approach to the Bible on How Critical Scholars Viewed the Pentateuch'
+  icon: web_stories
+  header: 'Lecture 23'
+  sequence: 23
+  url: 'lecture-26'
+  videos:
+    - https://drive.google.com/file/d/11e39ZFKCgbJ9pvvVt2DCQ_EcY0NT6SZQ/preview
+
+lecture-27:
+  segment: 'week-05'
+  title: 'Why Did Critical Scholars Conclude that the Pentateuch Came from Multiple Sources?'
+  icon: web_stories
+  header: 'Lecture 24'
+  sequence: 24
+  url: 'lecture-27'
+  videos:
+    - https://drive.google.com/file/d/1y6E-M-mfdeK2h1QTA0tGvdy69R5HjHVm/preview
+
+lecture-28:
+  segment: 'week-05'
+  title: 'Source Criticism, Julius Wellhausen (1844–1918), & "J-E-D-P"'
+  icon: web_stories
+  header: 'Lecture 25'
+  sequence: 25
+  url: 'lecture-28'
+  videos:
+    - https://drive.google.com/file/d/1crn9DsBgKe77J1faQpo0aP_O7j9cQ5LU/preview
+
+lecture-29:
+  segment: 'week-05'
+  title: "Scholarly Reaction to Wellhausen's Explanation of JEDP & the Pentateuch"
+  icon: web_stories
+  header: 'Lecture 26'
+  sequence: 26
+  url: 'lecture-29'
+  videos:
+    - https://drive.google.com/file/d/1DmGr294oGhEs_3xgFepRmlHQ2PQ6z6On/preview
+
+lecture-30:
+  segment: 'week-05'
+  title: 'Other Fields of Biblical Criticism'
+  icon: web_stories
+  header: 'Lecture 27'
+  sequence: 27
+  url: 'lecture-30'
+  videos:
+    - https://drive.google.com/file/d/16D7do-PgfDhReLwN20qbSG1vdexLKzhm/preview
+
+lecture-31:
+  segment: 'week-05'
+  title: 'Conservative Replies to Wellhausen & "J-E-D-P"'
+  icon: web_stories
+  header: 'Lecture 28'
+  sequence: 28
+  url: 'lecture-31'
+  videos:
+    - https://drive.google.com/file/d/1k2_4BgyCAyaelVqtTwpQDRup7jYmMvm4/preview
+
+assignment-01:
+  segment: 'week-01'
+  title: "Pharaoh's Hard Heart"
+  icon: article
+  header: 'Assignment 1'
+  type: 'Assignment'
+  url: 'assignment-01'
+  sequence: 1
+  due: 2023-09-03
+  points: 40
+
+assignment-02:
+  segment: 'week-02'
+  title: "Balaam & the Balaam Oracles"
+  icon: article
+  header: 'Assignment 2'
+  type: 'Assignment'
+  url: 'assignment-02'
+  sequence: 2
+  due: 2023-09-10
+  points: 30
+
+assignment-03:
+  segment: 'week-03'
+  title: "The Cities of Refuge"
+  icon: article
+  header: 'Assignment 3'
+  type: 'Assignment'
+  url: 'assignment-03'
+  sequence: 3
+  due: 2023-09-17
+  points: 30
+
+assignment-04:
+  segment: 'week-04'
+  title: "Physical Circumcision and the Abrahamic Covenant"
+  icon: article
+  header: 'Assignment 4'
+  type: 'Assignment'
+  url: 'assignment-04'
+  sequence: 4
+  due: 2023-09-24
+  points: 40
+
+assignment-05:
+  segment: 'week-05'
+  title: "How Critical Scholars View the Pentateuch"
+  icon: article
+  header: 'Assignment 5'
+  type: 'Assignment'
+  url: 'assignment-05'
+  sequence: 5
+  due: 2023-10-01
+  points: 40
+
+zoom-01:
+  segment: 'week-01'
+  title: "Zoom Session 1"
+  icon: videocam
+  header: 'Zoom 1'
+  type: 'Zoom'
+  url: 'zoom-01'
+  sequence: 1
+  videos: [ "kX32_KtwBT8" ]
+
+zoom-02:
+  segment: 'week-02'
+  title: "Zoom Session 2"
+  icon: videocam
+  header: 'Zoom 2'
+  type: 'Zoom'
+  url: 'zoom-02'
+  sequence: 2
+  videos: [ "v2P2I4M0b0w" ]
