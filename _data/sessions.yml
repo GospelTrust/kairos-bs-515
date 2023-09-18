@@ -330,7 +330,6 @@ assignment-01:
   header: 'Assignment 1'
   type: 'Assignment'
   url: 'assignment-01'
-  sequence: 1
   due: 2023-09-03
   points: 40
 
@@ -341,7 +340,6 @@ assignment-02:
   header: 'Assignment 2'
   type: 'Assignment'
   url: 'assignment-02'
-  sequence: 2
   due: 2023-09-10
   points: 30
 
@@ -352,7 +350,6 @@ assignment-03:
   header: 'Assignment 3'
   type: 'Assignment'
   url: 'assignment-03'
-  sequence: 3
   due: 2023-09-17
   points: 30
 
@@ -363,7 +360,6 @@ assignment-04:
   header: 'Assignment 4'
   type: 'Assignment'
   url: 'assignment-04'
-  sequence: 4
   due: 2023-09-24
   points: 40
 
@@ -374,7 +370,6 @@ assignment-05:
   header: 'Assignment 5'
   type: 'Assignment'
   url: 'assignment-05'
-  sequence: 5
   due: 2023-10-01
   points: 40
 
@@ -385,7 +380,6 @@ zoom-01:
   header: 'Zoom 1'
   type: 'Zoom'
   url: 'zoom-01'
-  sequence: 1
   videos: [ "kX32_KtwBT8" ]
 
 zoom-02:
@@ -395,5 +389,4 @@ zoom-02:
   header: 'Zoom 2'
   type: 'Zoom'
   url: 'zoom-02'
-  sequence: 2
   videos: [ "v2P2I4M0b0w" ]
