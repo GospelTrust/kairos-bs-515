@@ -38,13 +38,13 @@ week-03:
   items:
     - lecture-11
     - lecture-12
-    - lecture-13
     - lecture-14
     - lecture-15
     - lecture-16
     - lecture-17
     - lecture-18
     - assignment-03
+    - zoom-03
 
 week-04:
   title: 'Week 4'
@@ -54,12 +54,12 @@ week-04:
   theme: c7
   items:
     - lecture-19
-    - lecture-20
     - lecture-21
     - lecture-22
     - lecture-23
     - lecture-24
     - assignment-04
+    - zoom-04
 
 week-05:
   title: 'Week 5'
@@ -76,3 +76,4 @@ week-05:
     - lecture-30
     - lecture-31
     - assignment-05
+    - zoom-05
