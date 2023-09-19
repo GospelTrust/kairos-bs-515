@@ -22,10 +22,10 @@ week-02:
   theme: c3
   items:
     - lecture-06
-    - lecture-07
-    - lecture-08
-    - lecture-09
-    - lecture-10
+    - lecture-07a
+    - lecture-07b
+    - lecture-08-09
+    - lecture-10-11
     - assignment-02
     - zoom-02
 
@@ -36,13 +36,13 @@ week-03:
   end: 2023-09-16
   theme: c5
   items:
-    - lecture-11
     - lecture-12
-    - lecture-14
+    - lecture-13
+    - lecture-14a
+    - lecture-14b
+    - lecture-14c
     - lecture-15
     - lecture-16
-    - lecture-17
-    - lecture-18
     - assignment-03
     - zoom-03
 
@@ -53,11 +53,11 @@ week-04:
   end: 2023-09-23
   theme: c7
   items:
+    - lecture-17
+    - lecture-18
     - lecture-19
+    - lecture-20
     - lecture-21
-    - lecture-22
-    - lecture-23
-    - lecture-24
     - assignment-04
     - zoom-04
 
@@ -68,12 +68,12 @@ week-05:
   end: 2023-09-30
   theme: c9
   items:
+    - lecture-22
+    - lecture-23
+    - lecture-24
     - lecture-25
     - lecture-26
     - lecture-27
     - lecture-28
-    - lecture-29
-    - lecture-30
-    - lecture-31
     - assignment-05
     - zoom-05

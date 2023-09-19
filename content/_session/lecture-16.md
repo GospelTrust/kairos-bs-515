@@ -1,5 +1,5 @@
 ---
-handouts: [ '24' ]
+handouts: [ '26' ]
 ---
 
 {% include_relative handouts/import.html sections=page.handouts %}

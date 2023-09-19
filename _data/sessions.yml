@@ -67,239 +67,239 @@ lecture-06:
   videos:
     - https://drive.google.com/file/d/1F-s5j7mDrRSOegzdl8-DGHFwHSsiFjnh/preview
 
-lecture-07:
+lecture-07a:
   segment: 'week-02'
   title: "Bible's Views of the Second Account of Creation"
   icon: web_stories
   header: 'Lecture 7a'
   sequence: 7a
-  url: 'lecture-07'
+  url: 'lecture-07a'
   part: 2
   videos:
     - https://drive.google.com/file/d/194C4EFR_c_a9N7X5vIlUIiOD4ZzxqS0V/preview
 
-lecture-08:
+lecture-07b:
   segment: 'week-02'
   title: "Bible's Views of Creation & Cosmos"
   icon: web_stories
   header: 'Lecture 7b'
   sequence: 7a
-  url: 'lecture-08'
+  url: 'lecture-07b'
   part: 3
   videos:
     - https://drive.google.com/file/d/1eZQSTik1JeeAI8vuMijdgpjGo95QzupG/preview
 
-lecture-09:
+lecture-08-09:
   segment: 'week-02'
   title: "The Patriarchs & God's Promises; the Abrahamic Covenant"
   icon: web_stories
   header: 'Lectures 8 & 9'
   sequence: '8+'
-  url: 'lecture-09'
+  url: 'lecture-08-09'
   videos:
     - https://drive.google.com/file/d/1eZQSTik1JeeAI8vuMijdgpjGo95QzupG/preview
 
-lecture-10:
+lecture-10-11:
   segment: 'week-02'
   title: 'Nature of OT Covenants & ANE Treaties'
   icon: web_stories
   header: 'Lectures 10 & 11'
   sequence: '10+'
-  url: 'lecture-10'
-  videos:
-    - https://drive.google.com/file/d/1u8p5b2PCdETpGtO0P4PcFGunuB0vRqsG/preview
-
-lecture-11:
-  segment: 'week-03'
-  title: 'Exodus: Sinai Covenant & Law'
-  icon: web_stories
-  header: 'Lecture 12'
-  sequence: 12
-  url: 'lecture-11'
-  part: 1
+  url: 'lecture-10-11'
   videos:
     - https://drive.google.com/file/d/1u8p5b2PCdETpGtO0P4PcFGunuB0vRqsG/preview
 
 lecture-12:
   segment: 'week-03'
+  title: 'Exodus: Sinai Covenant & Law'
+  icon: web_stories
+  header: 'Lecture 12'
+  sequence: 12
+  url: 'lecture-12'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1u8p5b2PCdETpGtO0P4PcFGunuB0vRqsG/preview
+
+lecture-13:
+  segment: 'week-03'
   title: 'Abrahamic & Sianai Covenant'
   icon: web_stories
   header: 'Lecture 13'
-  sequence: 13a
-  url: 'lecture-12'
+  sequence: 13
+  url: 'lecture-13'
   videos:
     - https://drive.google.com/file/d/1VhHd06i0iQ0AR2bTYCLnjzdkrdt5rSnt/preview
     - https://drive.google.com/file/d/17FxgCUNEdO_3JZ08zqz8fbT13vJCVN1O/preview
 
-lecture-14:
+lecture-14a:
   segment: 'week-03'
   title: 'Sanctity of Life & Protection of the Unborn'
   icon: web_stories
   header: 'Lecture 14a'
   sequence: 14a
-  url: 'lecture-14'
+  url: 'lecture-14a'
   videos:
     - https://drive.google.com/file/d/15dCi8cqG2KwrDCjbQ33HhG5Z30rbJByr/preview
 
-lecture-15:
+lecture-14b:
   segment: 'week-03'
   title: 'An Eye For An Eye'
   icon: web_stories
   header: 'Lecture 14b'
   sequence: 14b
-  url: 'lecture-15'
+  url: 'lecture-14b'
   videos:
     - https://drive.google.com/file/d/1dkvOlvZzqgqzp2fJhTg4pwLKvPwUYLAo/preview
 
-lecture-16:
+lecture-14c:
   segment: 'week-03'
   title: 'Theft vs. Accidental Damage/Injury'
   icon: web_stories
   header: 'Lecture 14c'
   sequence: 14c
-  url: 'lecture-16'
+  url: 'lecture-14c'
   videos:
     - https://drive.google.com/file/d/1NK87deGVecQkvSlLaoZFY3znD6kFIorE/preview
 
-lecture-17:
+lecture-15:
   segment: 'week-03'
   title: 'Exodus: Building the Tabernacle'
   icon: web_stories
   header: 'Lecture 15'
   sequence: 15
-  url: 'lecture-17'
+  url: 'lecture-15'
   part: 2
   videos:
     - https://drive.google.com/file/d/18bjBXvIxM1wDYR2f5jGT_qnQNY59XNj_/preview
 
-lecture-18:
+lecture-16:
   segment: 'week-03'
   title: 'Sins of Their Fathers'
   icon: web_stories
   header: 'Lecture 16'
   sequence: 16
-  url: 'lecture-18'
+  url: 'lecture-16'
   videos:
     - https://drive.google.com/file/d/1Xa75uSjMHpGKReFWFtnEKkYNipINH6v3/preview
 
-lecture-19:
+lecture-17:
   segment: 'week-04'
   title: 'Leviticus'
   icon: web_stories
   header: 'Lecture 17'
   sequence: 17
-  url: 'lecture-19'
+  url: 'lecture-17'
   videos:
     - https://drive.google.com/file/d/1kPxWUuoC6u7Ap9utneALtXfidRW0Ll4M/preview
     - https://drive.google.com/file/d/1Q6Vw3QdlcThUgU4v19HFTwpVwQ6tKcrf/preview
 
-lecture-21:
+lecture-18:
   segment: 'week-04'
   title: 'Question of Homosexual Conduct'
   icon: web_stories
   header: 'Lecture 18'
   sequence: 18
-  url: 'lecture-21'
+  url: 'lecture-18'
   videos:
     - https://drive.google.com/file/d/1-pw-ew0IgwzjtO50A7SNuEqPxqhe6lgh/preview
 
-lecture-22:
+lecture-19:
   segment: 'week-04'
   title: 'Numbers'
   icon: web_stories
   header: 'Lecture 19'
   sequence: 19
-  url: 'lecture-22'
+  url: 'lecture-19'
   videos:
     - https://drive.google.com/file/d/1bEVyQj4qdpYQ0lqV4-FHZGNmvu303NQD/preview
 
-lecture-23:
+lecture-20:
   segment: 'week-04'
   title: 'Deuteronomy'
   icon: web_stories
   header: 'Lecture 20'
   sequence: 20
-  url: 'lecture-23'
+  url: 'lecture-20'
   videos:
     - https://drive.google.com/file/d/1s9yjIBjc1UtVdA5L9evd4OU_FnF-nLRH/preview
 
-lecture-24:
+lecture-21:
   segment: 'week-04'
   title: 'Conclusions from the Pentateuch'
   icon: web_stories
   header: 'Lecture 21'
   sequence: 21
-  url: 'lecture-24'
+  url: 'lecture-21'
   videos:
     - https://drive.google.com/file/d/11hgEZ7NvPC4PlJbhEDKsgRoNprveIm7M/preview
 
-lecture-25:
+lecture-22:
   segment: 'week-05'
   title: '"Scientific Interpretation" of Critical Scholars'
   icon: web_stories
   header: 'Lecture 22'
   sequence: 22
-  url: 'lecture-25'
+  url: 'lecture-22'
   videos:
     - https://drive.google.com/file/d/1IhsBVvcTZzKPDYiEXXTkJ_t0MPZKvLPv/preview
 
-lecture-26:
+lecture-23:
   segment: 'week-05'
   title: 'How Critical Scholars Viewed the Pentateuch'
   icon: web_stories
   header: 'Lecture 23'
   sequence: 23
-  url: 'lecture-26'
+  url: 'lecture-23'
   videos:
     - https://drive.google.com/file/d/11e39ZFKCgbJ9pvvVt2DCQ_EcY0NT6SZQ/preview
 
-lecture-27:
+lecture-24:
   segment: 'week-05'
   title: 'Pentateuch Came from Multiple Sources?'
   icon: web_stories
   header: 'Lecture 24'
   sequence: 24
-  url: 'lecture-27'
+  url: 'lecture-24'
   videos:
     - https://drive.google.com/file/d/1y6E-M-mfdeK2h1QTA0tGvdy69R5HjHVm/preview
 
-lecture-28:
+lecture-25:
   segment: 'week-05'
   title: 'Source Criticism & JEDP'
   icon: web_stories
   header: 'Lecture 25'
   sequence: 25
-  url: 'lecture-28'
+  url: 'lecture-25'
   videos:
     - https://drive.google.com/file/d/1crn9DsBgKe77J1faQpo0aP_O7j9cQ5LU/preview
 
-lecture-29:
+lecture-26:
   segment: 'week-05'
   title: "Scholarly Reaction JEDP & the Pentateuch"
   icon: web_stories
   header: 'Lecture 26'
   sequence: 26
-  url: 'lecture-29'
+  url: 'lecture-26'
   videos:
     - https://drive.google.com/file/d/1DmGr294oGhEs_3xgFepRmlHQ2PQ6z6On/preview
 
-lecture-30:
+lecture-27:
   segment: 'week-05'
   title: 'Other Fields of Biblical Criticism'
   icon: web_stories
   header: 'Lecture 27'
   sequence: 27
-  url: 'lecture-30'
+  url: 'lecture-27'
   videos:
     - https://drive.google.com/file/d/16D7do-PgfDhReLwN20qbSG1vdexLKzhm/preview
 
-lecture-31:
+lecture-28:
   segment: 'week-05'
   title: 'Conservative Replies to JEDP'
   icon: web_stories
   header: 'Lecture 28'
   sequence: 28
-  url: 'lecture-31'
+  url: 'lecture-28'
   videos:
     - https://drive.google.com/file/d/1k2_4BgyCAyaelVqtTwpQDRup7jYmMvm4/preview
 
