@@ -395,3 +395,12 @@ zoom-05:
   header: 'Zoom 5'
   type: 'Zoom'
   url: 'zoom-05'
+
+books:
+  segment: 'week-01'
+  title: "Reading Schedule"
+  icon: book
+  header: 'Reading'
+  type: 'Read'
+  url: 'books'
+  points: 50

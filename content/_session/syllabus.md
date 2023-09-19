@@ -80,22 +80,24 @@ For repeated violations of academic integrity in more than one course, a student
 
 - Our second textbook will be:
 
-  Old Testament Today, 1st edition, 2004, Zondervan.
+  [Old Testament Today](https://a.co/d/1psb7ic), 1st edition, 2004, Zondervan.
   John Walton & Andrew Hill.
 
   **Please note**: A second edition of this book was published in 2014. ← Do not get it.
+
   **I want to use the 1st edition (2004)**. (You can find it online, for $10-15.)
 
 - The third textbook is:
 
-  An Introduction to the Old Testament: Pentateuch; 2007, Moody Publishers.
-  Herbert M. Wolf (You can find it online for about $25.)
+  [An Introduction to the Old Testament: Pentateuch](https://a.co/d/hf8VH6t); 2007, Moody Publishers.
+  Herbert M. Wolf (You can find it [online](https://archive.org/details/introductiontool0000wolf/page/n9/mode/2up) for about $25.)
 
 - Other Required Reading:
 
-  All course handouts, esp. the "Reading Handouts" on the critical approach to studying the Pentateuch (H/O's #40, & #60 - #65).
+  All course handouts, esp. the "Reading Handouts" on the critical approach to studying the Pentateuch
+  [H/O's #40, & #60 - #65](/segment/week-05).
 
-- A Reading Schedule / Reading Report will be provided.
+- [A Reading Schedule](/session/books) / Reading Report will be provided.
 
   The total amount of required reading will be approx. 500 pages.
 
